@@ -10,10 +10,10 @@ A hands-on Windows enterprise lab built with VMware WORKSTATION.
 - ✅ Group Policy Objects
 - ✅ File Server with NTFS + Share permissions
 ## Lab status
-🔧 In progress
+✅ Completed
 
 ## Environment
-- Hypervisor: VirtualBox
+- Hypervisor: VMware Workstation
 - Domain: contoso.local
 - DC01: 192.168.10.10 (Windows Server 2022)
 - CLIENT01: Windows 10 Enterprise
