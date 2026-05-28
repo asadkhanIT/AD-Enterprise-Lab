@@ -10,7 +10,7 @@
 
 1. Created two VMs in VMware Workstation
 2. Installed Windows Server 2022 with Desktop Experience
-3. Promoted server to Domain Controller (contoso.local)
+3. Promoted server to Domain Controller (asad.com)
 4. Installed AD DS and DNS roles
 5. Created OUs: IT, HR, Finance, Management
 6. Created users and security groups per department
