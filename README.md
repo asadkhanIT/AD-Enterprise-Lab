@@ -1,6 +1,6 @@
 # Active Directory Enterprise Lab
 
-A hands-on Windows enterprise lab built with VMWARE WORKSTATION.
+A hands-on Windows enterprise lab built with VMware WORKSTATION.
 
 ## Completed Components
 - ✅ Domain Controller (Windows Server 2022)
