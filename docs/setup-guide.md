@@ -3,7 +3,7 @@
 ## Environment
 - Hypervisor: VMware Workstation
 - Domain: asad.com
-- DC01: 192.168.10.10 (Windows Server 2022)
+- DomainCOntroller: 192.168.10.10 (Windows Server 2022)
 - CLIENT01: Windows 10 Enterprise
 
 ## Steps Completed
