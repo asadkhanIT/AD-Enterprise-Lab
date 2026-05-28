@@ -14,8 +14,8 @@ A hands-on Windows enterprise lab built with VMware WORKSTATION.
 
 ## Environment
 - Hypervisor: VMware Workstation
-- Domain: contoso.local
-- DC01: 192.168.10.10 (Windows Server 2022)
+- Domain: asad.com
+- DomainCOntroller: 192.168.10.10 (Windows Server 2022)
 - CLIENT01: Windows 10 Enterprise
 
 ## Documentation
