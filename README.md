@@ -1,14 +1,14 @@
 # Active Directory Enterprise Lab
 
-A hands-on Windows enterprise lab built with VirtualBox.
+A hands-on Windows enterprise lab built with VMWARE WORKSTATION.
 
-## What's included
-- Domain Controller (Windows Server 2022)
-- Active Directory users, OUs, and security groups
-- Group Policy Objects (password, desktop lock, restrictions)
-- File server with NTFS + share permissions
-- Remote Desktop (RDP) with NLA
-
+## Completed Components
+- ✅ Domain Controller (Windows Server 2022)
+- ✅ Active Directory DS + DNS
+- ✅ Organizational Units (IT, HR, Finance, Management)
+- ✅ Users and Security Groups
+- ✅ Group Policy Objects
+- ✅ File Server with NTFS + Share permissions
 ## Lab status
 🔧 In progress
 
